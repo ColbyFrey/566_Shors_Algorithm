@@ -1,1 +1,1 @@
-# 566_Shors_Algorithm
+# Code to demonstrate Shors Algorithm and calculate the number of qubits required
